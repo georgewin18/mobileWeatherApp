@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!-- Fragment Today Weather    -->
+    <string name="content_icon">Icon Android</string>
+    <string name="city_name">Cuaca di Surabaya</string>
+    <string name="temperature">25 C</string>
+    <string name="date_time">Tanggal Sekarang</string>
+    <string name="wind">Wind</string>
+    <string name="txt_wind">10 km/h</string>
+    <string name="pressure">Pressure</string>
+    <string name="txt_pressure">1000.23 hpa</string>
+    <string name="humidity">Humidity</string>
+    <string name="txt_humidity">100 %</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="txt_sunrise">05.30 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="txt_sunset">05.30 PM</string>
+    <string name="geo_coordinate">Geo Coordinate</string>
+    <string name="txt_geo_coordinate">[-123 , 456]</string>
+    <string name="tab_text_1">Today</string>
+    <string name="tab_text_2">5 Days</string>
+    <string name="tab_text_3">City</string>
+
+    <!-- Fragment Forecast    -->
+    <string name="title_forecast">5 DAYS WEATHER FORECAST</string>
+    <string name="txt_city_name">Weather in Surabaya</string>
+
+    <!-- Item Weather Forecast    -->
+    <string name="txt_date">Wednesday</string>
+    <string name="txt_temperature">25 C</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
